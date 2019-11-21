@@ -1,0 +1,22 @@
+name: project
+dependencies:
+  - python=3
+  - numpy
+  - pandas
+  - conda-forge::spacy=2.1
+  - conda-forge::ipywidgets
+  - seaborn
+  - scipy
+  - scikit-learn
+  - h5py
+  - pip
+  - pip :
+    - fastText
+    - mypy
+    - requests
+    - BeautifulSoup4
+    - lxml
+    - nepali-date
+    - tzlocal
+    - profilehooks
+    - xmltodict

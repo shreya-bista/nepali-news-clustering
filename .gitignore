@@ -1,0 +1,8 @@
+*.pyc
+.ipynb_checkpoints
+combined.json
+.DS_Store
+onlinekhabar/*.json
+ekantipur/*.json
+setopati/*.json
+fastText
